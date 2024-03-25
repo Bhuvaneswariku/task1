@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+}
+
+.container1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.container1 h1,
+h2 {
+    display: inline-block;
+    border: 10px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: palevioletred;
+    border: 30px;
+    color: white;
+    
+}
+
+.team {
+    margin-top: 20px;
+    text-align: center;
+   
+}
+
+.member {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+   
+}
+
+.member img {
+    width: 100px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+
+}
+
+
